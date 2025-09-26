@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @LUNIVA-SHRESTHA
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning web development
-- 📫 How to reach me lunivashrestha83@gmail.com
-- 😄 Pronouns: luniva-shrestha
+
 
 
 <!---
